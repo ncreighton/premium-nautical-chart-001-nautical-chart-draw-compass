@@ -1,0 +1,2 @@
+# premium-nautical-chart-001-nautical-chart-draw-compass
+Tired of static map screenshots that you can't edit or annotate? The Nautical Chart Draw &amp; Compass Rose Hub turns Notion into your personal cartography studio.  This template solves the pain of creating and organizing custom nautical charts by providing a drawable canvas and an interactive compass rose hub. Unlike generic planners, it's built for n
